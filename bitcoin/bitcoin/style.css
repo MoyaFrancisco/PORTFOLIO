@@ -1,0 +1,176 @@
+/* General */
+body {
+  background-color: #0f0f0f;
+  color: #ddd;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Título */
+h1 {
+  text-align: center;
+  color: #00ffc8;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+/* Botones de intervalo */
+#buttons {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+button.btn {
+  background: #222;
+  border: 1px solid #444;
+  color: #ccc;
+  padding: 8px 14px;
+  margin: 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button.btn:hover {
+  background-color: #333;
+}
+
+button.btn.active {
+  background-color: #00ffc8;
+  color: #000;
+  font-weight: bold;
+}
+
+/* Estado y señal */
+#status {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 0.9em;
+  color: #999;
+}
+
+#signal {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.info-small {
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
+}
+
+/* Gráficos */
+.chart-container,
+.chart-card {
+  background: #1a1a1a;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 10px #000;
+  height: 300px;
+  position: relative;
+}
+
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.explanation,
+.chart-desc {
+  font-size: 0.95em;
+  color: #aaa;
+  margin-top: -20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+/* Panel de operaciones */
+.card {
+  background: #111;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 0 8px #0ff2;
+}
+
+.card h2 {
+  margin-top: 0;
+  color: #00ffc8;
+}
+
+.button-group {
+  margin-top: 10px;
+}
+
+.button-group button {
+  background: #222;
+  border: 1px solid #444;
+  color: #ccc;
+  padding: 8px 12px;
+  margin: 6px 4px 0 0;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button-group button:hover {
+  background: #333;
+}
+
+#tradeStatus {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+
+/* Historial */
+#tradeHistory {
+  background: #111;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px #0ff2;
+  margin-bottom: 40px;
+}
+
+#tradeHistory h3 {
+  margin-top: 0;
+  color: #00ffc8;
+}
+
+#historyList {
+  list-style: none;
+  padding-left: 0;
+  font-size: 0.95em;
+}
+
+#historyList li {
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #333;
+}
+
+/* Nuevo gráfico de velas */
+.chart-card {
+  background: #1a1a1a;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  box-shadow: 0 0 10px #000;
+  height: 300px;
+  position: relative;
+}
+#candlestickChart {
+  width: 100%;
+  height: 300px;
+  max-height: 300px;
+  display: block;
+}

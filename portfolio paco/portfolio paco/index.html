@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paco Moya Pardo - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="./docs/favicon.ico" />
+</head>
+
+<body>
+
+    <!-- Header with sticky navigation -->
+    <header class="header">
+        <nav class="navbar" role="navigation" aria-label="Main navigation">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <a href="#home" aria-label="Go to home section">PM</a>
+                </div>
+                <ul class="nav-menu" role="menubar">
+                    <li role="none"><a href="#home" role="menuitem">Home</a></li>
+                    <li role="none"><a href="#education" role="menuitem">Education</a></li>
+                    <li role="none"><a href="#experience" role="menuitem">Experience</a></li>
+                    <li role="none"><a href="#projects" role="menuitem">Projects</a></li>
+                    <li role="none"><a href="#skills" role="menuitem">Skills</a></li>
+                    <li role="none"><a href="#contact" role="menuitem">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main content -->
+    <main id="main-content">
+        <!-- Hero section with interactive terminal -->
+        <section id="home" class="hero" aria-label="Hero section">
+            <div class="hero-background">
+                <div class="watermark">
+                    <div class="watermark-text-large">FRANCISCO MOYA</div>
+                    <div class="watermark-text-small">Java & Full-Stack Developer — Web & Systems</div>
+                </div>
+            </div>
+            <div class="hero-content">
+                <div class="terminal-container">
+                    <div class="terminal-header">
+                        <div class="terminal-buttons">
+                            <span class="terminal-button close"></span>
+                            <span class="terminal-button minimize"></span>
+                            <span class="terminal-button maximize"></span>
+                        </div>
+                        <div class="terminal-title">franciscomp@portfolio:~</div>
+                    </div>
+                    <div class="terminal-body" id="terminal-body" role="log" aria-live="polite"
+                        aria-label="Interactive terminal">
+                        <div class="terminal-line">
+                            <span class="terminal-text">Initializing interactive portfolio… done.</span>
+                        </div>
+                        <div class="terminal-line">
+                            <span class="terminal-text">Type 'help' to see available commands.</span>
+                        </div>
+                        <div class="terminal-line terminal-input-line">
+                            <span class="terminal-prompt">franciscomp@portfolio:~$</span>
+                            <span class="terminal-text" id="current-input"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Education section -->
+        <section id="education" class="section" aria-labelledby="education-heading">
+            <div class="container">
+                <h2 id="education-heading" class="section-heading">Education & Certifications</h2>
+                <div class="education-content">
+                    <div class="education-section">
+                        <h3 class="education-section-title">Education</h3>
+                        <div class="education-item">
+                            <h4>Higher National Diploma — Multiplatform Applications Development (DAM)</h4>
+                            <p class="education-institution">The Core School</p>
+                            <p class="education-date">09/2023 – 06/2025</p>
+                            <p class="education-relevant">Relevant: Java, Databases, Web Development, Testing, Agile
+                                practices.</p>
+                        </div>
+                    </div>
+
+                    <div class="education-section">
+                        <h3 class="education-section-title">Certifications</h3>
+                        <div class="education-item">
+                            <h4>Advanced Cybersecurity in Operational Technology Environments</h4>
+                            <p class="education-institution">MainJobs</p>
+                            <p class="education-date">120h · 01/2025 – 02/2025</p>
+                            <p class="education-relevant">Relevant: OT cybersecurity, risk mitigation, industrial
+                                networks, incident response.</p>
+                        </div>
+                    </div>
+
+                    <div class="education-section">
+                        <h3 class="education-section-title">Languages</h3>
+                        <div class="languages-grid">
+                            <div class="language-item">
+                                <div class="language-info">
+                                    <h4 class="language-name">Spanish</h4>
+                                    <p class="language-level">Native Speaker</p>
+                                    <div class="language-proficiency">
+                                        <div class="proficiency-bar">
+                                            <div class="proficiency-fill" style="width: 100%"></div>
+                                        </div>
+                                        <span class="proficiency-text">100%</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="language-item">
+                                <div class="language-info">
+                                    <h4 class="language-name">English</h4>
+                                    <p class="language-level">Professional Working Proficiency</p>
+                                    <div class="language-proficiency">
+                                        <div class="proficiency-bar">
+                                            <div class="proficiency-fill" style="width: 85%"></div>
+                                        </div>
+                                        <span class="proficiency-text">85%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience section -->
+        <section id="experience" class="section" aria-labelledby="experience-heading">
+            <div class="container">
+                <h2 id="experience-heading" class="section-heading">Experience</h2>
+                <div class="experience-timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <h3>Cashier</h3>
+                            <h4>AhorraMas, Madrid (Spain)</h4>
+                            <p class="timeline-date">11/2024 – 01/2025</p>
+                            <ul class="timeline-details">
+                                <li>Customer service and issue resolution at checkout</li>
+                                <li>Proficient in POS systems and card/cash transactions</li>
+                                <li>Cash handling, returns, and till balancing</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <h3>IT Intern</h3>
+                            <h4>SICE, Madrid (Spain)</h4>
+                            <p class="timeline-date">03/2025 – 06/2025</p>
+                            <ul class="timeline-details">
+                                <li>Built and maintained internal tools improving team workflows</li>
+                                <li>Performed deployments and configuration on Linux Ubuntu in daily operations</li>
+                                <li>Collaborated with senior developers under Scrum ceremonies (stand-ups, reviews)</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <h3>Server</h3>
+                            <h4>5★ Dromoland Castle (Ireland)</h4>
+                            <p class="timeline-date">Now</p>
+                            <ul class="timeline-details">
+                                <li>Providing high-standard table service in a fine dining environment</li>
+                                <li>Ensuring guest satisfaction with personalized and attentive service</li>
+                                <li>Experience in handling upscale clientele and luxury service protocols</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects section -->
+        <section id="projects" class="section" aria-labelledby="projects-heading">
+            <div class="container">
+                <h2 id="projects-heading" class="section-heading">Projects</h2>
+                <div class="projects-grid">
+                    <article class="project-card">
+                        <h3 class="project-title">Crypto Signal Generator (Python)</h3>
+                        <p class="project-description">
+                            Advanced Python-based framework for multi-asset cryptocurrency analysis.
+                            Integrates feature engineering (returns, volatility, ATR, spreads), probabilistic modeling
+                            with Markov chains,
+                            and multi-horizon forecasting (fan charts, predictive intervals).
+                            Translates forecasts into actionable signals using cost-aware thresholds, hysteresis
+                            filters,
+                            and trimmed Kelly position sizing.
+                            Designed as a finished and market-ready product.
+                        </p>
+                        <div class="project-highlights">
+                            <ul>
+                                <li>Multi-asset analysis with real-time Binance API integration</li>
+                                <li>Probabilistic forecasts (Markov chains, entropy, predictive intervals)</li>
+                                <li>Risk-aware signals: thresholds, hysteresis, Kelly sizing</li>
+                            </ul>
+                        </div>
+                        <div class="project-stack">Python · Binance API · Pandas · NumPy · Matplotlib</div>
+                        <div class="project-links">
+                            <a href="https://btc-analisis.netlify.app/" target="_blank" class="project-link"
+                                aria-label="Product under validation">Commercial product</a>
+                            <a href="./docs/BTC advanced .pdf" class="project-link"
+                                aria-label="View technical documentation" target="_blank">Docs</a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <h3 class="project-title">BTC Technical Analysis Web App</h3>
+                        <p class="project-description">
+                            Real-time web application built with HTML, CSS, and JavaScript that connects to the Binance
+                            API to analyze BTC market data.
+                            Calculates and visualizes multiple technical indicators (SMA(10), EMA(10), RSI, MACD),
+                            volume, histograms, and potential signals.
+                            Users can switch between different timeframes, simulate entries (with SL/TP), and store the
+                            simulation history locally for review.
+                            The charts and metrics update in real-time.
+                        </p>
+                        <div class="project-highlights">
+                            <ul>
+                                <li>Technical indicators: SMA(10), EMA(10), RSI, MACD with histograms</li>
+                                <li>Timeframe selection and automatic live updates from Binance API</li>
+                                <li>Signal simulation with SL/TP and local history storage</li>
+                            </ul>
+                        </div>
+                        <div class="project-stack">HTML · CSS · JavaScript · Chart.js · Binance API · LocalStorage</div>
+                        <div class="project-links">
+                            <a href="https://btc-analisis.netlify.app/" target="_blank" class="project-link"
+                                aria-label="Open the web app">Web</a>
+                            <a href="./docs/BTC Analisis.pdf" target="_blank" class="project-link"
+                                aria-label="Read documentation">Docs</a>
+                        </div>
+                    </article>
+
+                    <!-- En la clase si pones "featured" se resalta la tarjeta -->
+                    <article class="project-card featured">
+                        <h3 class="project-title">Player 12 — Football Mini-Games Platform</h3>
+                        <p class="project-description">
+                            Interactive system developed in <strong>Python + customtkinter</strong> featuring several
+                            football-themed mini-games
+                            (formation builder, penalty shootout, bingo with team logos, and wordle-style challenge).
+                            Connected to a <strong>MySQL</strong> database containing real <em>LaLiga players</em> and
+                            <em>teams</em>,
+                            enabling validation of lineups and stats-based gameplay.
+                            Includes a modern UI styled consistently across games and a modular architecture for easy
+                            extension.
+                            Versioned on <strong>GitHub</strong> with documentation and demos.
+                        </p>
+
+                        <div class="project-highlights">
+                            <ul>
+                                <li>Integration with MySQL database for real LaLiga teams and players</li>
+                                <li>Multiple mini-games: lineup builder, penalties, bingo, wordle-style</li>
+                                <li>Modern UI with customtkinter (consistent styling and UX)</li>
+                            </ul>
+                        </div>
+
+                        <div class="project-stack">
+                            Python · customtkinter · MySQL · GitHub
+                        </div>
+
+                        <div class="project-links">
+                            <a href="https://github.com/tu-usuario/player12" class="project-link"
+                                aria-label="View repository" target="_blank" rel="noopener">Repo</a>
+                            <a href="#" class="project-link" aria-label="View live demo" target="_blank"
+                                rel="noopener">Demo</a>
+                            <a href="#" class="project-link" aria-label="Download documentation PDF" target="_blank"
+                                rel="noopener">PDF</a>
+                        </div>
+                    </article>
+
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills section -->
+        <section id="skills" class="section" aria-labelledby="skills-heading">
+            <div class="container">
+                <h2 id="skills-heading" class="section-heading">Skills</h2>
+                <div class="skills-content">
+                    <div class="skills-row">
+                        <div class="skills-category">
+                            <h3 class="skills-category-title">Development</h3>
+                            <div class="skills-chips">
+                                <span class="skill-chip">Java</span>
+                                <span class="skill-chip">Spring Boot</span>
+                                <span class="skill-chip">JavaScript</span>
+                                <span class="skill-chip">HTML/CSS</span>
+                                <span class="skill-chip">Bootstrap</span>
+                                <span class="skill-chip">REST APIs</span>
+                            </div>
+                        </div>
+
+                        <div class="skills-category">
+                            <h3 class="skills-category-title">Data & Testing</h3>
+                            <div class="skills-chips">
+                                <span class="skill-chip">SQL Server</span>
+                                <span class="skill-chip">MySQL</span>
+                                <span class="skill-chip">MongoDB</span>
+                                <span class="skill-chip">JUnit</span>
+                                <span class="skill-chip">Postman</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="skills-row">
+                        <div class="skills-category">
+                            <h3 class="skills-category-title">Tools & Environment</h3>
+                            <div class="skills-chips">
+                                <span class="skill-chip">Git/GitHub</span>
+                                <span class="skill-chip">Maven</span>
+                                <span class="skill-chip">Linux Ubuntu</span>
+                                <span class="skill-chip">Scrum/Jira</span>
+                                <span class="skill-chip">Windows</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+        <!-- Contact section -->
+        <section id="contact" class="section" aria-labelledby="contact-heading">
+            <div class="container">
+                <h2 id="contact-heading" class="section-heading">Contact</h2>
+                <div class="contact-content">
+                    <div class="contact-cta">
+                        <p>I build reliable REST APIs, dynamic front-ends with Bootstrap/Ajax, and deploy on Linux
+                            Ubuntu with a focus on quality and maintainability.</p>
+                    </div>
+
+                    <div class="contact-details">
+                        <div class="contact-info">
+                            <div class="contact-item">
+                                <strong>Email:</strong>
+                                <a href="mailto:pmoyapardo22@gmail.com">pmoyapardo22@gmail.com</a>
+                            </div>
+                            <div class="contact-item">
+                                <strong>Location:</strong> Ennis, Ireland
+                            </div>
+                        </div>
+
+                        <div class="contact-links">
+                            <a href="#" class="https://github.com/MoyaFrancisco/PORTFOLIO"
+                                aria-label="View GitHub profile">
+                                <span class="contact-link-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
+                                        viewBox="0 0 50 50" style="fill: #FFFFFF;">
+                                        <path
+                                            d="M17.791,46.836C18.502,46.53,19,45.823,19,45v-5.4c0-0.197,0.016-0.402,0.041-0.61C19.027,38.994,19.014,38.997,19,39 c0,0-3,0-3.6,0c-1.5,0-2.8-0.6-3.4-1.8c-0.7-1.3-1-3.5-2.8-4.7C8.9,32.3,9.1,32,9.7,32c0.6,0.1,1.9,0.9,2.7,2c0.9,1.1,1.8,2,3.4,2 c2.487,0,3.82-0.125,4.622-0.555C21.356,34.056,22.649,33,24,33v-0.025c-5.668-0.182-9.289-2.066-10.975-4.975 c-3.665,0.042-6.856,0.405-8.677,0.707c-0.058-0.327-0.108-0.656-0.151-0.987c1.797-0.296,4.843-0.647,8.345-0.714 c-0.112-0.276-0.209-0.559-0.291-0.849c-3.511-0.178-6.541-0.039-8.187,0.097c-0.02-0.332-0.047-0.663-0.051-0.999 c1.649-0.135,4.597-0.27,8.018-0.111c-0.079-0.5-0.13-1.011-0.13-1.543c0-1.7,0.6-3.5,1.7-5c-0.5-1.7-1.2-5.3,0.2-6.6 c2.7,0,4.6,1.3,5.5,2.1C21,13.4,22.9,13,25,13s4,0.4,5.6,1.1c0.9-0.8,2.8-2.1,5.5-2.1c1.5,1.4,0.7,5,0.2,6.6c1.1,1.5,1.7,3.2,1.6,5 c0,0.484-0.045,0.951-0.11,1.409c3.499-0.172,6.527-0.034,8.204,0.102c-0.002,0.337-0.033,0.666-0.051,0.999 c-1.671-0.138-4.775-0.28-8.359-0.089c-0.089,0.336-0.197,0.663-0.325,0.98c3.546,0.046,6.665,0.389,8.548,0.689 c-0.043,0.332-0.093,0.661-0.151,0.987c-1.912-0.306-5.171-0.664-8.879-0.682C35.112,30.873,31.557,32.75,26,32.969V33 c2.6,0,5,3.9,5,6.6V45c0,0.823,0.498,1.53,1.209,1.836C41.37,43.804,48,35.164,48,25C48,12.318,37.683,2,25,2S2,12.318,2,25 C2,35.164,8.63,43.804,17.791,46.836z">
+                                        </path>
+                                    </svg>
+                                </span>
+                                GitHub
+                            </a>
+                            <a href="#" class="https://www.linkedin.com/in/francisco-moya-pardo-a68b12338/"
+                                aria-label="View LinkedIn profile">
+                                <span class="contact-link-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
+                                        viewBox="0 0 50 50" style="fill:#FFFFFF;">
+                                        <path
+                                            d="M41,4H9C6.24,4,4,6.24,4,9v32c0,2.76,2.24,5,5,5h32c2.76,0,5-2.24,5-5V9C46,6.24,43.76,4,41,4z M17,20v19h-6V20H17z M11,14.47c0-1.4,1.2-2.47,3-2.47s2.93,1.07,3,2.47c0,1.4-1.12,2.53-3,2.53C12.2,17,11,15.87,11,14.47z M39,39h-6c0,0,0-9.26,0-10 c0-2-1-4-3.5-4.04h-0.08C27,24.96,26,27.02,26,29c0,0.91,0,10,0,10h-6V20h6v2.56c0,0,1.93-2.56,5.81-2.56 c3.97,0,7.19,2.73,7.19,8.26V39z">
+                                        </path>
+                                    </svg>
+                                </span>
+                                LinkedIn
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer" role="contentinfo">
+        <div class="container">
+            <p>&copy; 2025 Paco Moya Pardo. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+symbols:
+  - BTC/USDT
+  - ETH/USDT
+  - XRP/USDT
+  - BNB/USDT
+  - SOL/USDT
+  - DOGE/USDT
+  - TRX/USDT
+  - ADA/USDT
+timeframes:
+  - 1m
+  - 5m
+  - 15m
+  - 1h
+interval_seconds: 30
+risk_reward: 2.0
+strict_mode: true
+telegram_token: "8364894629:AAEyV5B5-O5s79YEm8GDD4LlkKyBDO4XNuA"
+telegram_chat_id: "6027540639" 

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test gráfico líneas</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body style="background:#111; color:white">
+  <canvas id="candlestickChart" width="800" height="400"></canvas>
+  <script>
+    const labels = Array.from({ length: 30 }, (_, i) => `T${i + 1}`);
+    const prices = labels.map((_, i) => 11700 + Math.sin(i / 3) * 50);
+
+    const entry = 11720;
+    const tp = 11780;
+    const sl = 11670;
+
+    const entryLine = labels.map(() => entry);
+    const tpLine = labels.map(() => tp);
+    const slLine = labels.map(() => sl);
+
+    new Chart(document.getElementById("candlestickChart").getContext("2d"), {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [
+          {
+            label: 'Precio',
+            data: prices,
+            borderColor: '#00ffff',
+            borderWidth: 2,
+            tension: 0.4,
+            pointRadius: 0
+          },
+          {
+            label: 'Entrada',
+            data: entryLine,
+            borderColor: '#ffffff',
+            borderDash: [5, 5],
+            borderWidth: 1.5,
+            pointRadius: 0
+          },
+          {
+            label: 'TP',
+            data: tpLine,
+            borderColor: '#00ff99',
+            borderDash: [4, 4],
+            borderWidth: 1.5,
+            pointRadius: 0
+          },
+          {
+            label: 'SL',
+            data: slLine,
+            borderColor: '#ff4d4d',
+            borderDash: [4, 4],
+            borderWidth: 1.5,
+            pointRadius: 0
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            labels: { color: '#ccc' }
+          }
+        },
+        scales: {
+          x: {
+            ticks: { color: '#aaa' },
+            grid: { color: '#222' }
+          },
+          y: {
+            ticks: { color: '#ccc' },
+            grid: { color: '#333' }
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>

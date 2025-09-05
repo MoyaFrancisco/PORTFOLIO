@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BTC - Análisis Técnico</title>
+
+  <!-- Estilos -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Chart.js y plugins -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-financial"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-financial@3.3.0/dist/chartjs-chart-financial.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>BTC - Análisis Técnico</h1>
+
+    <div id="status">Cargando datos...</div>
+
+    <!-- Intervalos -->
+    <div id="buttons">
+      <button class="btn active" onclick="setIntervalChart('1m', this)">1m</button>
+      <button class="btn" onclick="setIntervalChart('5m', this)">5m</button>
+      <button class="btn" onclick="setIntervalChart('15m', this)">15m</button>
+      <button class="btn" onclick="setIntervalChart('1h', this)">1h</button>
+      <button class="btn" onclick="setIntervalChart('4h', this)">4h</button>
+      <button class="btn" onclick="setIntervalChart('1d', this)">1d</button>
+      <button class="btn" onclick="setIntervalChart('1w', this)">1w</button>
+    </div>
+
+    <!-- Señal -->
+    <div id="signal">Calculando señal...</div>
+    <div id="higherFrame" class="info-small">Validando señales con marco mayor: -</div>
+
+    <!-- Gráficos principales -->
+    <div class="chart-container"><canvas id="priceChart"></canvas></div>
+    <p class="explanation">📈 Precio BTC con SMA/EMA. Identifica la tendencia general y puntos clave de entrada/salida.</p>
+
+    <div class="chart-container"><canvas id="rsiChart"></canvas></div>
+    <p class="explanation">💡 RSI mide sobrecompra/sobreventa. Útil para identificar posibles giros del mercado.</p>
+
+    <div class="chart-container"><canvas id="volumeChart"></canvas></div>
+    <p class="explanation">🔊 Volumen indica fuerza o debilidad de los movimientos. Aumentos repentinos pueden anticipar rupturas.</p>
+
+    <div class="chart-container"><canvas id="macdChart"></canvas></div>
+    <p class="explanation">📉 MACD muestra momentum. Cruces pueden indicar entradas LONG o SHORT.</p>
+
+    <!-- Panel de operaciones -->
+    <div class="card">
+      <h2>📌 Operación activa</h2>
+      <div id="tradeStatus">Ninguna operación abierta</div>
+      <div class="button-group">
+        <button onclick="openTrade('LONG')">📈 Abrir LONG</button>
+        <button onclick="openTrade('SHORT')">📉 Abrir SHORT</button>
+        <button onclick="closeTrade()">❌ Cerrar operación</button>
+      </div>
+    </div>
+
+    <div id="candlestickCard" class="card" style="display: block;">
+  <h3>📈 Evolución desde la entrada</h3>
+  <canvas id="candlestickChart" height="300"></canvas>
+</div>
+
+    <!-- Historial -->
+    <div id="tradeHistory">
+      <h3>📜 Historial de operaciones</h3>
+      <ul id="historyList"></ul>
+    </div>
+  </div>
+
+  <!-- Script principal -->
+  <script src="script.js"></script>
+</body>
+</html>
