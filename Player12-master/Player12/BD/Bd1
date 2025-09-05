@@ -1,0 +1,50 @@
+use Player12;
+DROP TABLE IF EXISTS `equipos`;
+CREATE TABLE `equipos` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(100) NOT NULL,
+  `ruta_escudo` VARCHAR(255),
+  PRIMARY KEY (`id`)
+);
+
+INSERT INTO equipos (nombre, ruta_escudo) VALUES
+('Athletic Club', 'img/escudos/athletic.png'),
+('Club Atlético de Madrid SAD', 'img/escudos/atletico_madrid.png'),
+('Club Atlético Osasuna', 'img/escudos/osasuna.png'),
+('Club Deportivo Leganés SAD', 'img/escudos/leganes.png'),
+('Deportivo Alavés SAD', 'img/escudos/alaves.png'),
+('Fútbol Club Barcelona', 'img/escudos/barcelona.png'),
+('Getafe Club de Fútbol SAD', 'img/escudos/getafe.png'),
+('Girona Fútbol Club SAD', 'img/escudos/girona.png'),
+('Rayo Vallecano de Madrid SAD', 'img/escudos/rayo_vallecano.png'),
+('Real Club Celta de Vigo SAD', 'img/escudos/celta.png'),
+('RCD Espanyol de Barcelona', 'img/escudos/espanyol.png'),
+('Real Club Deportivo Mallorca SAD', 'img/escudos/mallorca.png'),
+('Real Betis Balompié SAD', 'img/escudos/real_betis.png'),
+('Real Madrid Club de Fútbol', 'img/escudos/real_madrid.png'),
+('Real Sociedad de Fútbol SAD', 'img/escudos/real_sociedad.png'),
+('Real Valladolid Club de Fútbol SAD', 'img/escudos/valladolid.png'),
+('Sevilla Fútbol Club SAD', 'img/escudos/sevilla.png'),
+('Unión Deportiva Las Palmas SAD', 'img/escudos/las_palmas.png'),
+('Valencia Club de Fútbol SAD', 'img/escudos/valencia.png'),
+('Villarreal Club de Fútbol SAD', 'img/escudos/villarreal.png');
+
+DROP TABLE IF EXISTS `jugadores`;
+CREATE TABLE `jugadores` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(255) DEFAULT NULL,
+  `dorsal` int DEFAULT NULL,
+  `pais` varchar(255) DEFAULT NULL,
+  `posicion` varchar(255) DEFAULT NULL,
+  `equipo` varchar(255) DEFAULT NULL,
+  `equipo_id` int DEFAULT NULL,
+  PRIMARY KEY (`id`)
+);
+
+DROP TABLE IF EXISTS `usuarios`;
+CREATE TABLE `usuarios` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `username` varchar(100) NOT NULL UNIQUE,
+  `password` VARCHAR(255),
+  PRIMARY KEY (`id`)
+);

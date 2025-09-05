@@ -1,0 +1,535 @@
+jugador,apodo,fecha,pais,posicion,equipo,dorsal
+Unai Simón,Unai Simon,1997-06-11,España,Portero,Athletic Club,1
+Julen Agirrezabala,Agirrezabala,2000-12-26,España,Portero,Athletic Club,13
+Alejandro Padilla Pérez,Padilla,2003-09-01,México,Portero,Athletic Club,26
+Oier Gastesi,Gastesi,2003-10-30,España,Portero,Athletic Club,34
+Andoni Gorosabel,Gorosabel,1996-08-04,España,Defensa,Athletic Club,2
+Dani Vivian,Vivian,1999-07-05,España,Defensa,Athletic Club,3
+Aitor Paredes,Paredes,2000-04-29,España,Defensa,Athletic Club,4
+Yeray Álvarez,Yeray,1995-01-24,España,Defensa,Athletic Club,5
+Unai Núñez,Nuñez,1997-01-30,España,Defensa,Athletic Club,14
+Íñigo Lekue,I. Lekue,1993-05-04,España,Defensa,Athletic Club,15
+Yuri Berchiche,Yuri,1990-02-10,España,Defensa,Athletic Club,17
+Óscar De Marcos,De Marcos,1989-04-14,España,Defensa,Athletic Club,18
+Mikel Vesga,Vesga,1993-04-08,España,Centrocampista,Athletic Club,6
+Oihan Sancet,O. Sancet,2000-04-25,España,Centrocampista,Athletic Club,8
+Íñigo Ruíz de Galarreta,R. De Galarreta,1993-08-06,España,Centrocampista,Athletic Club,16
+Unai Gómez,Unai G.,2003-05-25,España,Centrocampista,Athletic Club,20
+Ander Herrera,Ander Herrera,1989-08-14,España,Centrocampista,Athletic Club,21
+Mikel Jauregizar,Jaureguizar,2003-11-13,España,Centrocampista,Athletic Club,23
+Beñat Prados,Prados,2001-02-08,España,Centrocampista,Athletic Club,24
+Adama Boiro,Adama,2002-06-22,España,Centrocampista,Athletic Club,32
+Alex Berenguer,Berenguer,1995-07-04,España,Delantero,Athletic Club,7
+Iñaki Williams,Williams,1994-06-15,Ghana,Delantero,Athletic Club,9
+Nicholas Williams Arthuer,Williams Jr,2002-07-12,España,Delantero,Athletic Club,10
+Álvaro Djaló Dias Fernandes,Djalo,1999-08-16,España,Delantero,Athletic Club,11
+Gorka Guruzeta,Guruzeta,1996-09-12,España,Delantero,Athletic Club,12
+Javier Martón,Martón,1999-05-06,España,Delantero,Athletic Club,19
+Nico Serrano,Nico Serrano,2003-03-05,España,Delantero,Athletic Club,22
+Jan Oblak,Oblak,1993-01-07,Eslovenia,Portero,Club Atlético de Madrid SAD,13
+Antonio Gomis,A.gomis,2003-05-20,España,Portero,Club Atlético de Madrid SAD,31
+Alejandro Iturbe,A.iturbe,2003-09-02,España,Portero,Club Atlético de Madrid SAD,33
+José Giménez,J. M. Giménez,1995-01-20,Uruguay,Defensa,Club Atlético de Madrid SAD,2
+César Azpilicueta,Azpilicueta,1989-08-28,España,Defensa,Club Atlético de Madrid SAD,3
+Clément Lenglet,Lenglet,1995-06-17,Francia,Defensa,Club Atlético de Madrid SAD,15
+Nahuel Molina,Molina,1998-04-06,Argentina,Defensa,Club Atlético de Madrid SAD,16
+Reinildo Isnard Mandava,Reinildo,1994-01-21,Mozambique,Defensa,Club Atlético de Madrid SAD,23
+Robin Le Normand,Le Normand,1996-11-11,España,Defensa,Club Atlético de Madrid SAD,24
+Ilias Kostis,Kostis,2003-02-27,Grecia,Defensa,Club Atlético de Madrid SAD,27
+Conor Gallagher,Gallagher,2000-02-06,GB-ENG,Centrocampista,Club Atlético de Madrid SAD,4
+Rodrigo De Paul,R. De Paul,1994-05-24,Argentina,Centrocampista,Club Atlético de Madrid SAD,5
+Jorge Resurrección Merodio,Koke,1992-01-08,España,Centrocampista,Club Atlético de Madrid SAD,6
+Pablo Barrios,Barrios,2003-06-15,España,Centrocampista,Club Atlético de Madrid SAD,8
+Thomas Lemar,Lemar,1995-11-12,Francia,Centrocampista,Club Atlético de Madrid SAD,11
+Marcos Llorente,M. Llorente,1995-01-30,España,Centrocampista,Club Atlético de Madrid SAD,14
+Rodrigo Riquelme,Riquelme,2000-04-02,España,Centrocampista,Club Atlético de Madrid SAD,17
+Axel Witsel,Witsel,1989-01-12,Bélgica,Centrocampista,Club Atlético de Madrid SAD,20
+Javi Galán,Javi Galán,1994-11-19,España,Centrocampista,Club Atlético de Madrid SAD,21
+Antoine Griezmann,Griezmann,1991-03-21,Francia,Delantero,Club Atlético de Madrid SAD,7
+Alexander Sørloth,Sørloth,1995-12-05,Noruega,Delantero,Club Atlético de Madrid SAD,9
+Ángel Correa,Correa,1995-03-09,Argentina,Delantero,Club Atlético de Madrid SAD,10
+Samuel Dias Lino,S.lino,1999-12-23,Brasil,Delantero,Club Atlético de Madrid SAD,12
+Julián Álvarez,J.alvarez,2000-01-31,Argentina,Delantero,Club Atlético de Madrid SAD,19
+Giuliano Simeone,Giuliano,2002-12-18,Argentina,Delantero,Club Atlético de Madrid SAD,22
+Sergio Herrera,S. Herrera,1993-06-05,España,Portero,Club Atlético Osasuna,1
+Aitor Fernández,Aitor Fdez.,1991-05-03,España,Portero,Club Atlético Osasuna,13
+Dimitrios Stamatakis,Stamatakis,2003-04-23,Grecia,Portero,Club Atlético Osasuna,32
+Nacho Vidal,Nacho Vidal,1995-01-24,España,Defensa,Club Atlético Osasuna,2
+Juan Cruz Álvaro Armada,Juan Cruz,1992-07-28,España,Defensa,Club Atlético Osasuna,3
+Unai García,Unai García,1992-02-03,España,Defensa,Club Atlético Osasuna,4
+Jorge Herrando,Herrando,2001-02-28,España,Defensa,Club Atlético Osasuna,5
+Jesús Areso,Areso,1999-07-02,España,Defensa,Club Atlético Osasuna,12
+Enzo Boyomo,Boyomo,2001-10-07,Camerún,Defensa,Club Atlético Osasuna,22
+Alejandro Catena,Catena,1994-10-28,España,Defensa,Club Atlético Osasuna,24
+Lucas Torró,Torró,1994-07-19,España,Centrocampista,Club Atlético Osasuna,6
+Jon Moncayola,Moncayola,1998-05-13,España,Centrocampista,Club Atlético Osasuna,7
+Pablo Ibáñez,Ibañez,1998-09-20,España,Centrocampista,Club Atlético Osasuna,8
+Moi Gómez,Moi Gómez,1994-06-23,España,Centrocampista,Club Atlético Osasuna,16
+Iker Muñoz,Iker Muñoz,2002-09-05,España,Centrocampista,Club Atlético Osasuna,18
+Bryan Zaragoza,Bryan,2001-09-09,España,Centrocampista,Club Atlético Osasuna,19
+Javi Martínez,Javi M. C.,1999-12-22,España,Centrocampista,Club Atlético Osasuna,21
+Abel Bretones,Abel Bretones,2000-08-21,España,Centrocampista,Club Atlético Osasuna,23
+Raúl García,Raúl,2000-11-03,España,Delantero,Club Atlético Osasuna,9
+Aimar Oroz,Aimar,2001-11-27,España,Delantero,Club Atlético Osasuna,10
+Kike Barja,Kike Barja,1997-04-01,España,Delantero,Club Atlético Osasuna,11
+Rubén García,Rubén García,1993-07-14,España,Delantero,Club Atlético Osasuna,14
+Rubén Peña,R. Peña,1991-07-18,España,Delantero,Club Atlético Osasuna,15
+Ante Budimir,Budimir,1991-07-22,Croacia,Delantero,Club Atlético Osasuna,17
+José Arnáiz,Jose Arnaiz,1995-04-15,España,Delantero,Club Atlético Osasuna,20
+Iker Benito,I. Benito,2002-08-10,España,Delantero,Club Atlético Osasuna,27
+Juan Soriano,Juan Soriano,1997-08-23,España,Portero,Club Deportivo Leganés SAD,1
+Marko Dmitrovic,Dmitrovic,1992-01-24,Serbia,Portero,Club Deportivo Leganés SAD,13
+Alvin Abajas,Alvin,2003-05-12,España,Portero,Club Deportivo Leganés SAD,36
+Adrià Alti,A. Alti,2001-03-28,España,Defensa,Club Deportivo Leganés SAD,2
+Jorge Sáenz,Jorge Sáenz,1996-11-17,España,Defensa,Club Deportivo Leganés SAD,3
+Jackson Porozo,J. Porozo,2000-08-04,EC,Defensa,Club Deportivo Leganés SAD,4
+Sergio González,Sergio G.,1992-04-20,España,Defensa,Club Deportivo Leganés SAD,6
+Valentin Rosier,V. Rosier,1996-08-19,Francia,Defensa,Club Deportivo Leganés SAD,12
+Matija Nastasic,Nastasi?,1993-03-28,Serbia,Defensa,Club Deportivo Leganés SAD,22
+João Urbáez,J. Urbaez,2002-07-24,República Dominicana,Defensa,Club Deportivo Leganés SAD,34
+Renato Tapia,Tapia,1995-07-28,Perú,Centrocampista,Club Deportivo Leganés SAD,5
+Óscar Rodríguez,Óscar,1998-06-28,España,Centrocampista,Club Deportivo Leganés SAD,7
+Seydouba Cissé,Cisse,2001-02-10,Guinea,Centrocampista,Club Deportivo Leganés SAD,8
+Juan Cruz,Cruz,2000-04-25,España,Centrocampista,Club Deportivo Leganés SAD,11
+Darko Brasanac,Darko,1992-02-12,Serbia,Centrocampista,Club Deportivo Leganés SAD,14
+Enric Franquesa,Franquesa,1997-02-26,España,Centrocampista,Club Deportivo Leganés SAD,15
+Yvan Neyou,Neyou,1997-01-03,Camerún,Centrocampista,Club Deportivo Leganés SAD,17
+Javi Hernández,Javi Hdez.,1998-05-02,España,Centrocampista,Club Deportivo Leganés SAD,20
+Roberto López,R. López,2000-04-24,España,Centrocampista,Club Deportivo Leganés SAD,21
+Julián Chicco,J. Chicco,1998-01-13,Argentina,Centrocampista,Club Deportivo Leganés SAD,24
+Miguel de la Fuente,Miguel,1999-09-03,España,Delantero,Club Deportivo Leganés SAD,9
+Dani Raba,Raba,1995-10-29,España,Delantero,Club Deportivo Leganés SAD,10
+Diego García,Diego,2000-04-18,España,Delantero,Club Deportivo Leganés SAD,19
+Munir El Haddadi,Munir,1995-09-01,Marruecos,Delantero,Club Deportivo Leganés SAD,23
+Antonio Sivera,Sivera,1996-08-11,España,Portero,Deportivo Alavés SAD,1
+Jesús Owono,Owono,2001-03-01,Guinea Ecuatorial,Portero,Deportivo Alavés SAD,13
+Adrián Rodríguez,A. Rodriguez,2000-12-12,Argentina,Portero,Deportivo Alavés SAD,31
+Manu Sánchez,Manu Sánchez,2000-08-24,España,Defensa,Deportivo Alavés SAD,3
+Aleksandar Sedlar,A.sedlar,1991-12-13,Serbia,Defensa,Deportivo Alavés SAD,4
+Abdel Abqar,A. Abqar,1999-03-10,Marruecos,Defensa,Deportivo Alavés SAD,5
+Santiago Mouriño,Mouriño,2002-02-13,Uruguay,Defensa,Deportivo Alavés SAD,12
+Nahuel Tenaglia,N. Tenaglia,1996-02-21,Argentina,Defensa,Deportivo Alavés SAD,14
+Hugo Novoa,Novoa,2003-01-24,España,Defensa,Deportivo Alavés SAD,16
+Moussa Diarra,Diarra,2000-11-10,Malí,Defensa,Deportivo Alavés SAD,22
+Eneko Ortiz,Eneko O.,2003-05-26,España,Defensa,Deportivo Alavés SAD,34
+Adrián Hernández Hernández,Pica,2002-04-25,España,Defensa,Deportivo Alavés SAD,36
+Ander Guevara,Guevara,1997-07-07,España,Centrocampista,Deportivo Alavés SAD,6
+Antonio Blanco,Blanco,2000-07-23,España,Centrocampista,Deportivo Alavés SAD,8
+Tomás Conechny,Tomas Conechny,1998-03-30,Argentina,Centrocampista,Deportivo Alavés SAD,10
+Carlos Martín,Carlos M.,2002-04-22,España,Centrocampista,Deportivo Alavés SAD,15
+Jon Guridi,Guridi,1995-02-28,España,Centrocampista,Deportivo Alavés SAD,18
+Juan Diego Molina Martínez,Stoichkov,1993-11-05,España,Centrocampista,Deportivo Alavés SAD,19
+Luka Romero,Luka,2004-11-18,Argentina,Centrocampista,Deportivo Alavés SAD,20
+Abde Rebbach,A. Rebbach,1998-08-11,Argelia,Centrocampista,Deportivo Alavés SAD,21
+Carlos Benavídez,Protesoni,1998-03-30,Uruguay,Centrocampista,Deportivo Alavés SAD,23
+Joan Jordán,Jordán,1994-07-06,España,Centrocampista,Deportivo Alavés SAD,24
+Julen Lartitegi,Lartitegi,2003-09-29,España,Centrocampista,Deportivo Alavés SAD,37
+Carlos Vicente,Carlos V.,1999-04-23,España,Delantero,Deportivo Alavés SAD,7
+Asier Villalibre,Villalibre,1997-09-30,España,Delantero,Deportivo Alavés SAD,9
+Toni Martínez,T. Martinez,1997-06-30,España,Delantero,Deportivo Alavés SAD,11
+Kike García,Kike G.,1989-11-25,España,Delantero,Deportivo Alavés SAD,17
+Marc-André ter Stegen,Ter Stegen,1992-04-30,Alemania,Portero,Fútbol Club Barcelona,1
+Ignacio Peña Sotorres,Iñaki Peña,1999-03-02,España,Portero,Fútbol Club Barcelona,13
+Ander Astralaga,Astralaga,2004-03-03,España,Portero,Fútbol Club Barcelona,26
+Pau Cubarsí,Cubarsí,2007-01-22,España,Defensa,Fútbol Club Barcelona,2
+Alejandro Balde,Balde,2003-10-18,España,Defensa,Fútbol Club Barcelona,3
+Ronald Araujo,R. Araujo,1999-03-07,Uruguay,Defensa,Fútbol Club Barcelona,4
+Íñigo Martínez,I. Martinez,1991-05-17,España,Defensa,Fútbol Club Barcelona,5
+Andreas Christensen,Christensen,1996-04-10,Dinamarca,Defensa,Fútbol Club Barcelona,15
+Jules Koundé,Kounde,1998-11-12,Francia,Defensa,Fútbol Club Barcelona,23
+Eric García,Eric,2001-01-09,España,Defensa,Fútbol Club Barcelona,24
+Héctor Fort,Héctor Fort,2006-08-02,España,Defensa,Fútbol Club Barcelona,32
+Gerard Martín,Martín,2002-02-26,España,Defensa,Fútbol Club Barcelona,35
+Sergi Domínguez,Sergi Domínguez,2005-04-01,España,Defensa,Fútbol Club Barcelona,36
+Andrés Cuenca,Andrés Cuenca,2007-06-11,España,Defensa,Fútbol Club Barcelona,39
+Pablo Martín Páez Gavira,Gavi,2004-08-05,España,Centrocampista,Fútbol Club Barcelona,6
+Ferran Torres,Ferran,2000-02-29,España,Centrocampista,Fútbol Club Barcelona,7
+Pedro González López,Pedri,2002-11-25,España,Centrocampista,Fútbol Club Barcelona,8
+Pablo Torre,Pablo Torre,2003-04-03,España,Centrocampista,Fútbol Club Barcelona,14
+Fermín López,Fermin,2003-05-11,España,Centrocampista,Fútbol Club Barcelona,16
+Marc Casadó,M. Casadó,2003-09-14,España,Centrocampista,Fútbol Club Barcelona,17
+Pau Víctor,Pau Victor,2001-11-26,España,Centrocampista,Fútbol Club Barcelona,18
+Dani Olmo,Dani Olmo,1998-05-07,España,Centrocampista,Fútbol Club Barcelona,20
+Frenkie de Jong,F. De Jong,1997-05-12,Países Bajos,Centrocampista,Fútbol Club Barcelona,21
+Marc Bernal,Marc Bernal,2007-05-26,España,Centrocampista,Fútbol Club Barcelona,28
+Robert Lewandowski,Lewandowski,1988-08-21,Polonia,Delantero,Fútbol Club Barcelona,9
+Ansu Fati,Ansu Fati,2002-10-31,España,Delantero,Fútbol Club Barcelona,10
+Raphael Dias Belloli,Raphinha,1996-12-14,Brasil,Delantero,Fútbol Club Barcelona,11
+Lamine Yamal Nasraoui Ebana,Lamine Yamal,2007-07-13,España,Delantero,Fútbol Club Barcelona,19
+Jirí Letácek,Letacek,1999-01-09,,Portero,Getafe Club de Fútbol SAD,1
+David Soria,David Soria,1993-04-04,España,Portero,Getafe Club de Fútbol SAD,13
+Diego Ferrer,Ferrer,2007-04-17,España,Portero,Getafe Club de Fútbol SAD,40
+Djené Dakonam,Djene,1991-12-31,Togo,Defensa,Getafe Club de Fútbol SAD,2
+Fabrizio Angileri,F. Angileri,1994-03-15,Argentina,Defensa,Getafe Club de Fútbol SAD,3
+Juan Berrocal,J. Berrocal,1999-02-05,España,Defensa,Getafe Club de Fútbol SAD,4
+Álex Sola,A.sola,1999-06-09,España,Defensa,Getafe Club de Fútbol SAD,7
+Omar Alderete,Alderete,1996-12-26,Paraguay,Defensa,Getafe Club de Fútbol SAD,15
+Diego Rico,Rico,1993-02-23,España,Defensa,Getafe Club de Fútbol SAD,16
+Juan Iglesias,Iglesias,1998-07-03,España,Defensa,Getafe Club de Fútbol SAD,21
+Domingos de Sousa Coutinho Meneses Duarte,Domingos D.,1995-03-10,Portugal,Defensa,Getafe Club de Fútbol SAD,22
+Gorka Rivera,Gorka,2004-08-01,España,Defensa,Getafe Club de Fútbol SAD,30
+Luis Milla,L. Milla,1994-10-07,España,Centrocampista,Getafe Club de Fútbol SAD,5
+Christantus Uche,Uche,2003-05-19,Nigeria,Centrocampista,Getafe Club de Fútbol SAD,6
+Mauro Arambarri,Arambarri,1995-09-30,Uruguay,Centrocampista,Getafe Club de Fútbol SAD,8
+Carles Aleñá,Aleñá,1998-01-05,España,Centrocampista,Getafe Club de Fútbol SAD,11
+Peter Federico González Carmona,Peter,2002-07-25,República Dominicana,Centrocampista,Getafe Club de Fútbol SAD,19
+Jesús Santiago Pérez,Yellu,2004-05-25,España,Centrocampista,Getafe Club de Fútbol SAD,20
+Alberto Risco,Alberto,2005-08-30,España,Centrocampista,Getafe Club de Fútbol SAD,26
+John Patrick,J. Patrick,2003-09-24,Irlanda,Centrocampista,Getafe Club de Fútbol SAD,31
+Borja Mayoral,B. Mayoral,1997-04-05,España,Delantero,Getafe Club de Fútbol SAD,9
+Bertug Yildirim,Bertug,2002-07-12,Turquía,Delantero,Getafe Club de Fútbol SAD,10
+Carles Pérez,C. Pérez,1998-02-16,España,Delantero,Getafe Club de Fútbol SAD,17
+Álvaro Rodríguez,Álvaro,2004-07-14,Uruguay,Delantero,Getafe Club de Fútbol SAD,18
+Coba da Costa,Coba da Costa,2002-07-26,España,Delantero,Getafe Club de Fútbol SAD,29
+Juan Carlos Martín Corral,Juan Carlos,1988-01-20,España,Portero,Girona Fútbol Club SAD,1
+Paulo Gazzaniga,Gazzaniga,1992-01-02,Argentina,Portero,Girona Fútbol Club SAD,13
+Pau López,Pau Lopez,1994-12-13,España,Portero,Girona Fútbol Club SAD,25
+Miguel Gutiérrez,Miguel,2001-07-27,España,Defensa,Girona Fútbol Club SAD,3
+Arnau Martínez,Arnau,2003-04-25,España,Defensa,Girona Fútbol Club SAD,4
+Juan Pedro Ramírez López,Juanpe Rl,1991-04-30,España,Defensa,Girona Fútbol Club SAD,15
+Alejandro Francés,A. Francés,2002-08-01,España,Defensa,Girona Fútbol Club SAD,16
+Daley Blind,Blind,1990-03-09,Países Bajos,Defensa,Girona Fútbol Club SAD,17
+Ladislav Krejcí,Krejci,1999-04-20,,Defensa,Girona Fútbol Club SAD,18
+David López,David Lopez,1989-10-09,España,Centrocampista,Girona Fútbol Club SAD,5
+Oriol Romeu,Romeu,1991-09-24,España,Centrocampista,Girona Fútbol Club SAD,14
+Yangel Herrera,Herrera,1998-01-07,Venezuela,Centrocampista,Girona Fútbol Club SAD,21
+Jhon Solís,Jhon Solis,2004-10-03,Colombia,Centrocampista,Girona Fútbol Club SAD,22
+Iván Martín,Iván Martín,1999-02-14,España,Centrocampista,Girona Fútbol Club SAD,23
+Cristian Portugués Manzanera,Portu,1992-05-21,España,Centrocampista,Girona Fútbol Club SAD,24
+Gabriel Misehouy,Misehouy,2005-07-18,Países Bajos,Centrocampista,Girona Fútbol Club SAD,27
+Donny van de Beek,Van De Beek,1997-04-18,Países Bajos,Delantero,Girona Fútbol Club SAD,6
+Cristhian Stuani,Stuani,1986-10-12,Uruguay,Delantero,Girona Fútbol Club SAD,7
+Viktor Tsyhankov,Tsygankov,1997-11-15,Ucrania,Delantero,Girona Fútbol Club SAD,8
+Abel Ruiz,Abel Ruiz,2000-01-28,España,Delantero,Girona Fútbol Club SAD,9
+Yáser Asprilla,Asprilla,2003-11-19,Colombia,Delantero,Girona Fútbol Club SAD,10
+Bojan Miovski,Miovski,1999-06-24,Macedonia,Delantero,Girona Fútbol Club SAD,19
+Bryan Gil,Bryan,2001-02-11,España,Delantero,Girona Fútbol Club SAD,20
+Arnaut Danjuma,Danjuma,1997-01-31,Países Bajos,Delantero,Girona Fútbol Club SAD,11
+Dani Cárdenas,D. Cárdenas,1997-03-28,España,Portero,Rayo Vallecano de Madrid SAD,1
+Augusto Batalla,A. Batalla,1996-04-30,Argentina,Portero,Rayo Vallecano de Madrid SAD,13
+Andrei Ratiu,Andrei,1998-06-20,Rumanía,Defensa,Rayo Vallecano de Madrid SAD,2
+Pep Chavarría,Pep Chavarria,1998-04-10,España,Defensa,Rayo Vallecano de Madrid SAD,3
+Aridane Hernández,Aridane,1989-03-23,España,Defensa,Rayo Vallecano de Madrid SAD,5
+Abdul Mumin,A. Mumin,1998-06-06,Ghana,Defensa,Rayo Vallecano de Madrid SAD,16
+Iván Balliu,Balliu,1992-01-01,Albania,Defensa,Rayo Vallecano de Madrid SAD,20
+Alfonso Espino,Pacha,1992-01-05,Uruguay,Defensa,Rayo Vallecano de Madrid SAD,22
+Florian Lejeune,Lejeune,1991-05-20,Francia,Defensa,Rayo Vallecano de Madrid SAD,24
+Marco de Las Sias,De Las Sias,2005-12-29,España,Defensa,Rayo Vallecano de Madrid SAD,26
+Pelayo Fernández,Pelayo,2003-04-29,España,Defensa,Rayo Vallecano de Madrid SAD,27
+Pedro Díaz,Pedro Díaz,1998-06-05,España,Centrocampista,Rayo Vallecano de Madrid SAD,4
+Pathé Ciss,Pathé I. Ciss,1994-03-16,Senegal,Centrocampista,Rayo Vallecano de Madrid SAD,6
+Isi Palazón,Isi,1994-12-27,España,Centrocampista,Rayo Vallecano de Madrid SAD,7
+James Rodríguez,James,1991-07-12,Colombia,Centrocampista,Rayo Vallecano de Madrid SAD,10
+Randy Nteka,Nteka,1997-12-06,Angola,Centrocampista,Rayo Vallecano de Madrid SAD,11
+Gerard Gumbau,Gumbau,1994-12-18,España,Centrocampista,Rayo Vallecano de Madrid SAD,15
+Unai López,Unai Lopez,1995-10-30,España,Centrocampista,Rayo Vallecano de Madrid SAD,17
+Álvaro García,Álvaro,1992-10-27,España,Centrocampista,Rayo Vallecano de Madrid SAD,18
+Jorge de Frutos,De Frutos,1997-02-20,España,Centrocampista,Rayo Vallecano de Madrid SAD,19
+Óscar Valentín,Óscar V.,1994-08-20,España,Centrocampista,Rayo Vallecano de Madrid SAD,23
+Joni Montiel,Joni Montiel,1998-09-03,España,Centrocampista,Rayo Vallecano de Madrid SAD,
+Óscar Trejo,Tjp,1988-04-26,Argentina,Delantero,Rayo Vallecano de Madrid SAD,8
+Raúl de Tomás,Rdt,1994-10-17,España,Delantero,Rayo Vallecano de Madrid SAD,9
+Sergio Camello,Camello,2001-02-10,España,Delantero,Rayo Vallecano de Madrid SAD,14
+Adri Embarba,Embarba,1992-05-07,España,Delantero,Rayo Vallecano de Madrid SAD,21
+Etienne Eto'o Pineda,E. Eto´o,2002-08-18,Camerún,Delantero,Rayo Vallecano de Madrid SAD,28
+Iván Villar,Ivan Villar,1997-07-09,España,Portero,Real Club Celta de Vigo SAD,1
+Vicente Guaita,V. Guaita,1987-01-10,España,Portero,Real Club Celta de Vigo SAD,13
+Marc Vidal,Marc Vidal,2000-02-14,España,Portero,Real Club Celta de Vigo SAD,26
+César Fernández,Cesar Fernández,2004-01-28,España,Portero,Real Club Celta de Vigo SAD,27
+Carl Starfelt,Starfelt,1995-06-01,Suecia,Defensa,Real Club Celta de Vigo SAD,2
+Óscar Mingueza,O. Mingueza,1999-05-13,España,Defensa,Real Club Celta de Vigo SAD,3
+Sergio Carreira,Carreira,2000-10-13,España,Defensa,Real Club Celta de Vigo SAD,5
+Joseph Aidoo,Aidoo Jr,1995-09-29,Ghana,Defensa,Real Club Celta de Vigo SAD,15
+Marcos Alonso,Marcos A.,1990-12-28,España,Defensa,Real Club Celta de Vigo SAD,20
+Mihailo Ristic,Ristic,1995-10-31,Serbia,Defensa,Real Club Celta de Vigo SAD,21
+Javier Manquillo,Manquillo,1994-05-05,España,Defensa,Real Club Celta de Vigo SAD,22
+Carlos Domínguez,C. Dominguez,2001-02-11,España,Defensa,Real Club Celta de Vigo SAD,24
+Javier Rodríguez,Javi Rodríguez,2003-06-27,España,Defensa,Real Club Celta de Vigo SAD,32
+Ilaix Moriba,Ilaix Moriba,2003-01-19,Guinea,Centrocampista,Real Club Celta de Vigo SAD,6
+Fran Beltrán,Fran Beltran,1999-02-03,España,Centrocampista,Real Club Celta de Vigo SAD,8
+Luca de la Torre,De La Torre,1998-05-23,Estados Unidos,Centrocampista,Real Club Celta de Vigo SAD,14
+Jailson Marques Siqueira,Jailson,1995-09-07,Brasil,Centrocampista,Real Club Celta de Vigo SAD,16
+Jonathan Bamba,Bamba,1996-03-26,Costa de Marfil,Centrocampista,Real Club Celta de Vigo SAD,17
+Williot Swedberg,Williot,2004-02-01,Suecia,Centrocampista,Real Club Celta de Vigo SAD,19
+Damián Rodríguez,Damian,2003-03-17,España,Centrocampista,Real Club Celta de Vigo SAD,25
+Hugo Álvarez,Hugo Alvarez,2003-07-02,España,Centrocampista,Real Club Celta de Vigo SAD,30
+Hugo Sotelo,Hugo Sotelo,2003-12-19,España,Centrocampista,Real Club Celta de Vigo SAD,33
+Borja Iglesias,B. Iglesias,1993-01-17,España,Delantero,Real Club Celta de Vigo SAD,7
+Tasos Douvikas,Douvikas,1999-08-02,Grecia,Delantero,Real Club Celta de Vigo SAD,9
+Iago Aspas,Iago Aspas,1987-08-01,España,Delantero,Real Club Celta de Vigo SAD,10
+Franco Cervi,Franco,1994-05-26,Argentina,Delantero,Real Club Celta de Vigo SAD,11
+Alfon González,Alfon,1999-05-04,España,Delantero,Real Club Celta de Vigo SAD,12
+Pablo Durán,Pablo Durán,2001-05-25,España,Delantero,Real Club Celta de Vigo SAD,18
+Tadeo Allende,Allende,1999-02-20,Argentina,Delantero,Real Club Celta de Vigo SAD,23
+Joan García,Joan Garcia,2001-05-04,España,Portero,RCD Espanyol de Barcelona,1
+Fernando Pacheco,Pacheco,1992-05-18,España,Portero,RCD Espanyol de Barcelona,13
+Ángel Fortuño,A. Fortuño,2001-10-05,España,Portero,RCD Espanyol de Barcelona,33
+Sergi Gómez,S. Gómez,1992-03-28,España,Defensa,RCD Espanyol de Barcelona,3
+Fernando Calero,F. Calero,1995-09-14,España,Defensa,RCD Espanyol de Barcelona,5
+Leandro Cabrera,Cabrera,1991-06-17,Uruguay,Defensa,RCD Espanyol de Barcelona,6
+Álvaro Tejero,A.tejero,1996-07-20,España,Defensa,RCD Espanyol de Barcelona,12
+Brian Oliván,B. Olivan,1994-04-01,España,Defensa,RCD Espanyol de Barcelona,14
+Carlos Romero,C. Romero,2001-10-29,España,Defensa,RCD Espanyol de Barcelona,22
+Omar El Hilali,El Hilali,2003-09-12,Marruecos,Defensa,RCD Espanyol de Barcelona,23
+José Luis Català Vázquez,Catala,2004-08-16,España,Defensa,RCD Espanyol de Barcelona,27
+Marash Kumbulla,Kumbulla,2000-02-08,Albania,Centrocampista,RCD Espanyol de Barcelona,4
+Javi Puado,Puado,1998-05-25,España,Centrocampista,RCD Espanyol de Barcelona,7
+Edu Expósito,Edu Expósito,1996-08-01,España,Centrocampista,RCD Espanyol de Barcelona,8
+Pol Lozano,Pol Lozano,1999-10-06,España,Centrocampista,RCD Espanyol de Barcelona,10
+José Gragera,Gragera,2000-05-14,España,Centrocampista,RCD Espanyol de Barcelona,15
+Álvaro Aguado,Aguado,1996-05-01,España,Centrocampista,RCD Espanyol de Barcelona,18
+Salvi Sánchez,Sánchez,1991-03-30,España,Centrocampista,RCD Espanyol de Barcelona,19
+Alex Král,Král,1998-05-19,,Centrocampista,RCD Espanyol de Barcelona,20
+Antoniu Roca,A. Roca,2002-09-05,España,Centrocampista,RCD Espanyol de Barcelona,31
+Rafael Bauza,Bauza,2005-01-30,España,Centrocampista,RCD Espanyol de Barcelona,35
+Alejo Véliz,Veliz,2003-09-19,Argentina,Delantero,RCD Espanyol de Barcelona,9
+Pere Milla,Pere Milla,1992-09-23,España,Delantero,RCD Espanyol de Barcelona,11
+Jofre Carreras,Jofre,2001-06-17,España,Delantero,RCD Espanyol de Barcelona,17
+Irvin Cardona,Cardona,1997-08-08,Francia,Delantero,RCD Espanyol de Barcelona,24
+Omar Sadik,Omar,2004-03-22,Marruecos,Delantero,RCD Espanyol de Barcelona,32
+Dominik Greif,Greif,1997-04-06,Eslovaquia,Portero,Real Club Deportivo Mallorca SAD,1
+Leo Román,Leo Román,2000-07-06,España,Portero,Real Club Deportivo Mallorca SAD,13
+Iván Cuéllar,Cuéllar,1984-05-27,España,Portero,Real Club Deportivo Mallorca SAD,25
+Mateu Morey,Mateu Jaume,2000-03-02,España,Defensa,Real Club Deportivo Mallorca SAD,2
+Antonio Latorre Grueso,Toni Lato,1997-11-21,España,Defensa,Real Club Deportivo Mallorca SAD,3
+Siebe Van der Heyden,V.d. Heyden,1998-05-30,Bélgica,Defensa,Real Club Deportivo Mallorca SAD,4
+José Manuel Arias Copete,Copete,1999-10-10,España,Defensa,Real Club Deportivo Mallorca SAD,6
+Valery Fernández,Valery,1999-11-23,España,Defensa,Real Club Deportivo Mallorca SAD,
+Antonio Raíllo,A. Raillo,1991-10-08,España,Defensa,Real Club Deportivo Mallorca SAD,21
+Pablo Maffeo,Maffeo,1997-07-12,Argentina,Defensa,Real Club Deportivo Mallorca SAD,23
+Martin Valjent,Valjent,1995-12-11,Eslovaquia,Defensa,Real Club Deportivo Mallorca SAD,24
+Omar Mascarell,Mascarell,1993-02-02,Guinea Ecuatorial,Centrocampista,Real Club Deportivo Mallorca SAD,5
+Manu Morlanes,Morlanes,1999-01-12,España,Centrocampista,Real Club Deportivo Mallorca SAD,8
+Sergi Darder,S. Darder,1993-12-22,España,Centrocampista,Real Club Deportivo Mallorca SAD,10
+Samuel de Almeida Costa,Samu,2000-11-27,Portugal,Centrocampista,Real Club Deportivo Mallorca SAD,12
+Dani Rodríguez,Dani Rodríguez,1988-06-06,España,Centrocampista,Real Club Deportivo Mallorca SAD,14
+Antonio Sánchez,Antonio Sánchez,1997-04-22,España,Centrocampista,Real Club Deportivo Mallorca SAD,18
+Johan Mojica,J. Mojica,1992-08-21,Colombia,Centrocampista,Real Club Deportivo Mallorca SAD,22
+Robert Navarro,Navarro,2002-04-12,España,Centrocampista,Real Club Deportivo Mallorca SAD,27
+Jan Salas,Jan Salas,2005-08-10,España,Centrocampista,Real Club Deportivo Mallorca SAD,28
+Daniel Luna,D. Luna,2003-05-07,Colombia,Centrocampista,Real Club Deportivo Mallorca SAD,33
+Vedat Muriqi,Muriqi,1994-04-24,XK,Delantero,Real Club Deportivo Mallorca SAD,7
+Abdón Prats,Abdón,1992-12-07,España,Delantero,Real Club Deportivo Mallorca SAD,9
+Takuma Asano,Asano,1994-11-10,Japón,Delantero,Real Club Deportivo Mallorca SAD,11
+Cyle Larin,Larin,1995-04-17,Canadá,Delantero,Real Club Deportivo Mallorca SAD,17
+Javi Llabrés,Javi Llabrés,2002-09-11,España,Delantero,Real Club Deportivo Mallorca SAD,19
+Rui Tiago Dantas da Silva,Rui Silva,1994-02-07,Portugal,Portero,Real Betis Balompié SAD,1
+Adrián San Miguel del Castillo,Adrián,1987-01-03,España,Portero,Real Betis Balompié SAD,13
+Francisco Barbosa Vieites,F. Vieites,1999-05-07,España,Portero,Real Betis Balompié SAD,25
+Manu González,Manu G.,2007-04-18,España,Portero,Real Betis Balompié SAD,41
+Héctor Bellerín,Bellerín,1995-03-19,España,Defensa,Real Betis Balompié SAD,2
+Diego Llorente,Llorente R.,1993-08-16,España,Defensa,Real Betis Balompié SAD,3
+Marc Bartra,Bartra,1991-01-15,España,Defensa,Real Betis Balompié SAD,5
+Natan Bernardo de Souza,Natan,2001-02-06,Brasil,Defensa,Real Betis Balompié SAD,6
+Ricardo Rodríguez,Rodríguez,1992-08-25,Suiza,Defensa,Real Betis Balompié SAD,12
+Romain Perraud,Perraud,1997-09-22,Francia,Defensa,Real Betis Balompié SAD,15
+Youssouf Sabaly,Sabaly,1993-03-05,Senegal,Defensa,Real Betis Balompié SAD,23
+Lucas Alcázar,Lucas,2002-07-11,España,Defensa,Real Betis Balompié SAD,43
+Johnny Cardoso,Johnny,2001-09-20,Estados Unidos,Centrocampista,Real Betis Balompié SAD,4
+William Silva de Carvalho,William,1992-04-07,Portugal,Centrocampista,Real Betis Balompié SAD,14
+Sergi Altimira,S. Altimira,2001-08-25,España,Centrocampista,Real Betis Balompié SAD,16
+Rodrigo Sánchez Rodríguez,Rodri,2000-05-16,España,Centrocampista,Real Betis Balompié SAD,17
+Pablo Fornals,P. Fornals,1996-02-22,España,Centrocampista,Real Betis Balompié SAD,18
+Marc Roca,Marc Roca,1996-11-26,España,Centrocampista,Real Betis Balompié SAD,21
+Francisco Román Alarcón Suárez,Isco,1992-04-21,España,Centrocampista,Real Betis Balompié SAD,22
+Giovani Lo Celso,Lo Celso,1996-04-09,Argentina,Centrocampista,Real Betis Balompié SAD,20
+Juan Miguel Jiménez López,Juanmi,1993-05-20,España,Delantero,Real Betis Balompié SAD,7
+Vitor Hugo Roque Ferreira,Vitor Roque,2005-02-28,Brasil,Delantero,Real Betis Balompié SAD,8
+Chimy Ávila,Ávila Chimy,1994-02-06,Argentina,Delantero,Real Betis Balompié SAD,9
+Abde Ezzalzouli,Ez Abde,2001-12-17,Marruecos,Delantero,Real Betis Balompié SAD,10
+Cédric Bakambu,Bakambu,1991-04-11,"Congo, República Democrática",Delantero,Real Betis Balompié SAD,11
+Iker Losada,Iker,2001-08-01,España,Delantero,Real Betis Balompié SAD,19
+Aitor Ruibal,Aitor Ruibal,1996-03-22,España,Delantero,Real Betis Balompié SAD,24
+Assane Diao,Diao,2005-09-07,España,Delantero,Real Betis Balompié SAD,38
+Thibaut Courtois,Courtois,1992-05-11,Bélgica,Portero,Real Madrid Club de Fútbol,1
+Andrii Lunin,Lunin,1999-02-11,Ucrania,Portero,Real Madrid Club de Fútbol,13
+Dani Carvajal,Carvajal,1992-01-11,España,Defensa,Real Madrid Club de Fútbol,2
+Éder Gabriel Militão,E. Militão,1998-01-18,Brasil,Defensa,Real Madrid Club de Fútbol,3
+David Alaba,Alaba,1992-06-24,Austria,Defensa,Real Madrid Club de Fútbol,4
+Jesús Vallejo,Vallejo,1997-01-05,España,Defensa,Real Madrid Club de Fútbol,18
+Fran García,Fran García,1999-08-14,España,Defensa,Real Madrid Club de Fútbol,20
+Antonio Rüdiger,Rüdiger,1993-03-03,Alemania,Defensa,Real Madrid Club de Fútbol,22
+Ferland Mendy,F. Mendy,1995-06-08,Francia,Defensa,Real Madrid Club de Fútbol,23
+Jacobo Ramón,Jacobo,2005-01-06,España,Defensa,Real Madrid Club de Fútbol,31
+Jude Bellingham,Bellingham,2003-06-29,GB-ENG,Centrocampista,Real Madrid Club de Fútbol,5
+Eduardo Camavinga,Camavinga,2002-11-10,Francia,Centrocampista,Real Madrid Club de Fútbol,6
+Federico Valverde,Valverde,1998-07-22,Uruguay,Centrocampista,Real Madrid Club de Fútbol,8
+Luka Modric,Modri?,1985-09-09,Croacia,Centrocampista,Real Madrid Club de Fútbol,10
+Aurélien Tchouaméni,Tchouameni,2000-01-27,Francia,Centrocampista,Real Madrid Club de Fútbol,14
+Arda Güler,Arda Güler,2005-02-25,Turquía,Centrocampista,Real Madrid Club de Fútbol,15
+Dani Ceballos,D. Ceballos,1996-08-07,España,Centrocampista,Real Madrid Club de Fútbol,19
+Brahim Díaz,Brahim,1999-08-03,Marruecos,Centrocampista,Real Madrid Club de Fútbol,21
+Vinícius José Paixão de Oliveira Júnior,Vini Jr.,2000-07-12,Brasil,Delantero,Real Madrid Club de Fútbol,7
+Kylian Mbappé,Mbappé,1998-12-20,Francia,Delantero,Real Madrid Club de Fútbol,9
+Rodrygo Silva de Goes,Rodrygo,2001-01-09,Brasil,Delantero,Real Madrid Club de Fútbol,11
+Endrick Felipe Moreira de Sousa,Endrick,2006-07-21,Brasil,Delantero,Real Madrid Club de Fútbol,16
+Lucas Vázquez,Lucas V.,1991-07-01,España,Delantero,Real Madrid Club de Fútbol,17
+Álex Remiro,A. Remiro,1995-03-24,España,Portero,Real Sociedad de Fútbol SAD,1
+Unai Marrero,Marrero,2001-10-09,España,Portero,Real Sociedad de Fútbol SAD,13
+Aitor Fraga,Fraga,2003-03-12,España,Portero,Real Sociedad de Fútbol SAD,32
+Egoitz Arana Aizpurua,Arana,2002-02-19,España,Portero,Real Sociedad de Fútbol SAD,35
+Álvaro Odriozola,Odriozola,1995-12-14,España,Defensa,Real Sociedad de Fútbol SAD,2
+Aihen Muñoz,Aihen,1997-08-16,España,Defensa,Real Sociedad de Fútbol SAD,3
+Aritz Elustondo,Aritz,1994-03-28,España,Defensa,Real Sociedad de Fútbol SAD,6
+Javi López,Javi López,2002-03-25,España,Defensa,Real Sociedad de Fútbol SAD,12
+Urko González,G. De Zarate,2001-03-20,España,Defensa,Real Sociedad de Fútbol SAD,15
+Hamari Traoré,H.traoré,1992-01-27,Malí,Defensa,Real Sociedad de Fútbol SAD,18
+Jon Pacheco,Pacheco,2001-01-08,España,Defensa,Real Sociedad de Fútbol SAD,20
+Jon Aramburu,Aramburu,2002-07-23,Venezuela,Defensa,Real Sociedad de Fútbol SAD,27
+Jon Martín,Martin,2006-04-23,España,Defensa,Real Sociedad de Fútbol SAD,31
+Martín Zubimendi,Zubimendi,1999-02-02,España,Centrocampista,Real Sociedad de Fútbol SAD,4
+Igor Zubeldia,Zubeldia,1997-03-30,España,Centrocampista,Real Sociedad de Fútbol SAD,5
+Sheraldo Becker,Becker,1995-02-09,Surinam,Centrocampista,Real Sociedad de Fútbol SAD,11
+Takefusa Kubo,Take,2001-06-04,Japón,Centrocampista,Real Sociedad de Fútbol SAD,14
+Jon Olasagasti,Olasagasti,2000-08-16,España,Centrocampista,Real Sociedad de Fútbol SAD,16
+Arsen Zakharyan,Zakharyan,2003-05-26,Federación Rusa,Centrocampista,Real Sociedad de Fútbol SAD,21
+Beñat Turrientes,Turrientes,2002-01-31,España,Centrocampista,Real Sociedad de Fútbol SAD,22
+Brais Méndez,Brais Méndez,1997-01-07,España,Centrocampista,Real Sociedad de Fútbol SAD,23
+Luka Sucic,Sucic,2002-09-08,Croacia,Centrocampista,Real Sociedad de Fútbol SAD,24
+Jon Magunazelaia,Magunazelaia,2001-07-13,España,Centrocampista,Real Sociedad de Fútbol SAD,25
+Pablo Marín,Marin,2003-07-03,España,Centrocampista,Real Sociedad de Fútbol SAD,28
+Ander Barrenetxea,Barrene,2001-12-27,España,Delantero,Real Sociedad de Fútbol SAD,7
+Mikel Oyarzabal,Oyarzabal,1997-04-21,España,Delantero,Real Sociedad de Fútbol SAD,10
+Sergio Gómez,Sergio Gómez,2000-09-04,España,Delantero,Real Sociedad de Fútbol SAD,17
+Umar Sadiq,Sadiq,1997-02-02,Nigeria,Delantero,Real Sociedad de Fútbol SAD,19
+André Filipe Magalhães Ribeiro Ferreira,André F.,1996-05-29,Portugal,Portero,Real Valladolid Club de Fútbol SAD,1
+Karl Hein,Hein,2002-04-13,Estonia,Portero,Real Valladolid Club de Fútbol SAD,13
+Arnau Rafús,A. Rafús,2003-04-27,España,Portero,Real Valladolid Club de Fútbol SAD,26
+Luis Pérez,L. Pérez,1995-02-04,España,Defensa,Real Valladolid Club de Fútbol SAD,2
+David Torres,D. Torres,2003-03-05,España,Defensa,Real Valladolid Club de Fútbol SAD,3
+Javi Sánchez de Felipe,Javi Sánchez,1997-03-14,España,Defensa,Real Valladolid Club de Fútbol SAD,5
+Cenk Özkacar,Cenk,2000-10-06,Turquía,Defensa,Real Valladolid Club de Fútbol SAD,6
+Eray Cömert,Cömert,1998-02-04,Suiza,Defensa,Real Valladolid Club de Fútbol SAD,15
+Lucas Oliveira Rosa,L. Rosa,2000-04-03,Brasil,Defensa,Real Valladolid Club de Fútbol SAD,22
+Raúl Chasco,R. Chasco,2003-09-13,España,Defensa,Real Valladolid Club de Fútbol SAD,30
+Jorge Iglesias González,Koke,2005-03-16,España,Defensa,Real Valladolid Club de Fútbol SAD,32
+Víctor Meseguer,V. Meseguer,1999-06-09,España,Centrocampista,Real Valladolid Club de Fútbol SAD,4
+Kike Pérez,Kike Pérez,1997-02-14,España,Centrocampista,Real Valladolid Club de Fútbol SAD,8
+Iván Sánchez Aguayo,I. Sánchez,1992-09-23,España,Centrocampista,Real Valladolid Club de Fútbol SAD,10
+Raúl Moro,Moro,2002-12-05,España,Centrocampista,Real Valladolid Club de Fútbol SAD,11
+Mario Martín,Mario Martín,2004-03-05,España,Centrocampista,Real Valladolid Club de Fútbol SAD,12
+César de la Hoz,C. De La Hoz,1992-03-30,España,Centrocampista,Real Valladolid Club de Fútbol SAD,16
+Stanko Juric,S. Juri?,1996-08-16,Croacia,Centrocampista,Real Valladolid Club de Fútbol SAD,20
+Selim Amallah,Amallah,1996-11-15,Marruecos,Centrocampista,Real Valladolid Club de Fútbol SAD,21
+Anuar Tuhami,Anuar,1995-01-15,Marruecos,Centrocampista,Real Valladolid Club de Fútbol SAD,23
+Robert Kenedy Nunes do Nascimento,Kenedy,1996-02-08,Brasil,Centrocampista,Real Valladolid Club de Fútbol SAD,24
+Iván Cantalejo,Chuki,2004-04-29,España,Centrocampista,Real Valladolid Club de Fútbol SAD,28
+Mamadou Sylla,M. Sylla,1994-03-20,Senegal,Delantero,Real Valladolid Club de Fútbol SAD,7
+Marcos André de Sousa Mendonça,Marcos André,1996-10-20,Brasil,Delantero,Real Valladolid Club de Fútbol SAD,9
+Juanmi Latasa,Latasa,2001-03-23,España,Delantero,Real Valladolid Club de Fútbol SAD,14
+Darwin Machís,D. Machis,1993-02-07,Venezuela,Delantero,Real Valladolid Club de Fútbol SAD,18
+Amath Ndiaye,Amath,1996-07-16,Senegal,Delantero,Real Valladolid Club de Fútbol SAD,19
+Álvaro Fernández,A. Ferllo,1998-04-13,España,Portero,Sevilla Fútbol Club SAD,1
+Ørjan Nyland,Nyland,1990-09-10,Noruega,Portero,Sevilla Fútbol Club SAD,13
+Alberto Flores,Alberto F.,2003-11-10,España,Portero,Sevilla Fútbol Club SAD,31
+Matías Árbol,Matias,2002-09-12,España,Portero,Sevilla Fútbol Club SAD,33
+Adrià Pedrosa,Pedrosa,1998-05-13,España,Defensa,Sevilla Fútbol Club SAD,3
+Kike Salas,Kike Salas,2002-04-23,España,Defensa,Sevilla Fútbol Club SAD,4
+Pedro Ortiz,P. Ortiz,2000-08-19,España,Defensa,Sevilla Fútbol Club SAD,
+Gonzalo Montiel,Montiel,1997-01-01,Argentina,Defensa,Sevilla Fútbol Club SAD,15
+Jesús Navas,J. Navas,1985-11-21,España,Defensa,Sevilla Fútbol Club SAD,16
+Loïc Badé,Badé,2000-04-11,Francia,Defensa,Sevilla Fútbol Club SAD,22
+Marcos do Nascimento Teixeira,Marcao,1996-06-05,Brasil,Defensa,Sevilla Fútbol Club SAD,23
+Tanguy Nianzou,Nianzou,2002-06-07,Francia,Defensa,Sevilla Fútbol Club SAD,24
+José Ángel Carmona,Carmona,2002-01-29,España,Defensa,Sevilla Fútbol Club SAD,32
+Nemanja Gudelj,Gudelj,1991-11-16,Serbia,Centrocampista,Sevilla Fútbol Club SAD,6
+Albert Sambi Lokonga,Sambi,1999-10-22,Bélgica,Centrocampista,Sevilla Fútbol Club SAD,12
+Saúl Ñíguez,Saúl,1994-11-21,España,Centrocampista,Sevilla Fútbol Club SAD,17
+Lucien Agoumé,Agoumé,2002-02-09,Francia,Centrocampista,Sevilla Fútbol Club SAD,18
+Djibril Sow,Sow,1997-02-06,Suiza,Centrocampista,Sevilla Fútbol Club SAD,20
+Juanlu Sánchez,Juanlu,2003-08-15,España,Centrocampista,Sevilla Fútbol Club SAD,26
+Stanis Idumbo Muzambo,Idumbo,2005-06-29,Bélgica,Centrocampista,Sevilla Fútbol Club SAD,27
+Alberto Collado,Collado,2005-04-16,España,Centrocampista,Sevilla Fútbol Club SAD,30
+Pablo Rivera,Rivera,2004-01-11,España,Centrocampista,Sevilla Fútbol Club SAD,37
+Lucas Ocampos,L. Ocampos,1994-07-11,Argentina,Delantero,Sevilla Fútbol Club SAD,5
+Isaac Romero,Isaac,2000-05-18,España,Delantero,Sevilla Fútbol Club SAD,7
+Kelechi Iheanacho,Iheanacho,1996-10-03,Nigeria,Delantero,Sevilla Fútbol Club SAD,9
+Jesús Joaquín Fernández Sáenz de la Torre,Suso,1993-11-19,España,Delantero,Sevilla Fútbol Club SAD,10
+Dodi Lukébakio,Lukébakio,1997-09-24,Bélgica,Delantero,Sevilla Fútbol Club SAD,11
+Gerard Fernández Castellano,Peque,2002-10-04,España,Delantero,Sevilla Fútbol Club SAD,14
+Chidera Ejuke,Ejuke,1998-01-02,Nigeria,Delantero,Sevilla Fútbol Club SAD,21
+Jasper Cillessen,Cillessen,1989-04-22,Países Bajos,Portero,Unión Deportiva Las Palmas SAD,1
+Dinko Horkas,Dinko Horkas,1999-03-10,Croacia,Portero,Unión Deportiva Las Palmas SAD,13
+Álvaro Vallés,Á.valles,1997-07-25,España,Portero,Unión Deportiva Las Palmas SAD,25
+Álvaro Killane,Killane,2004-12-14,Argentina,Portero,Unión Deportiva Las Palmas SAD,30
+Mika Mármol,Mika Marmol,2001-07-02,España,Defensa,Unión Deportiva Las Palmas SAD,3
+Álex Suárez,Álex Suárez,1993-03-18,España,Defensa,Unión Deportiva Las Palmas SAD,4
+Scott McKenna,Mckenna,1996-11-12,Escocia,Defensa,Unión Deportiva Las Palmas SAD,15
+Daley Sinkgraven,Sinkgraven,1995-07-04,Países Bajos,Defensa,Unión Deportiva Las Palmas SAD,22
+Álex Muñoz,Alex Muñoz,1994-07-30,España,Defensa,Unión Deportiva Las Palmas SAD,23
+Valentín Pezzolesi,Pezzolesi,2007-04-16,Argentina,Defensa,Unión Deportiva Las Palmas SAD,27
+Juan Herzog,Herzog,2004-05-13,España,Defensa,Unión Deportiva Las Palmas SAD,28
+Marvin Olawale Akinlabi Park,Marvin,2000-07-03,España,Centrocampista,Unión Deportiva Las Palmas SAD,2
+Javi Muñoz,Javi Muñoz,1995-02-28,España,Centrocampista,Unión Deportiva Las Palmas SAD,5
+Fabio González,Fabio,1997-02-12,España,Centrocampista,Unión Deportiva Las Palmas SAD,6
+José Ángel Gómez Campaña,J.g. Campaña,1993-05-31,España,Centrocampista,Unión Deportiva Las Palmas SAD,8
+Alberto Moleiro,A. Moleiro,2003-09-30,España,Centrocampista,Unión Deportiva Las Palmas SAD,10
+Benito Ramírez,Benito J,1995-07-11,España,Centrocampista,Unión Deportiva Las Palmas SAD,11
+Enzo Loiodice,Loiodice,2000-11-27,Francia,Centrocampista,Unión Deportiva Las Palmas SAD,12
+Manu Fuster,Manu Fuster,1997-10-22,España,Centrocampista,Unión Deportiva Las Palmas SAD,14
+Viti Rozada,Viti,1997-09-16,España,Centrocampista,Unión Deportiva Las Palmas SAD,18
+Kirian Rodríguez,Kirian,1996-03-05,España,Centrocampista,Unión Deportiva Las Palmas SAD,20
+Iván Gil,Ivan Gil,2000-01-18,España,Centrocampista,Unión Deportiva Las Palmas SAD,21
+Aboubacar Bassinga,Bassinga,2005-07-13,Costa de Marfil,Centrocampista,Unión Deportiva Las Palmas SAD,
+Adnan Januzaj,Januzaj,1995-02-05,Bélgica,Centrocampista,Unión Deportiva Las Palmas SAD,
+Marc Cardona,Marc,1995-07-08,España,Delantero,Unión Deportiva Las Palmas SAD,9
+Oliver McBurnie,Oli Mcburnie,1996-06-04,Escocia,Delantero,Unión Deportiva Las Palmas SAD,16
+Jaime Mata,Mata,1988-10-24,España,Delantero,Unión Deportiva Las Palmas SAD,17
+Sandro Ramírez,Sandro,1995-07-09,España,Delantero,Unión Deportiva Las Palmas SAD,19
+Jaume Domènech,Domenech,1990-11-05,España,Portero,Valencia Club de Fútbol SAD,1
+Stole Dimitrievski,Dimitrievski,1993-12-25,Macedonia,Portero,Valencia Club de Fútbol SAD,13
+Giorgi Mamardashvili,Mamardashvili,2000-09-29,Georgia,Portero,Valencia Club de Fútbol SAD,25
+Raúl Jiménez,Raúl J.,2006-02-16,España,Portero,Valencia Club de Fútbol SAD,34
+Cristhian Mosquera,Mosquera,2004-06-27,España,Defensa,Valencia Club de Fútbol SAD,3
+Mouctar Diakhaby,Diakhaby,1996-12-19,Guinea,Defensa,Valencia Club de Fútbol SAD,4
+Hugo Guillamón,Hugo G.,2000-01-31,España,Defensa,Valencia Club de Fútbol SAD,6
+Thierry Rendall Correia,Thierry R.,1999-03-09,Portugal,Defensa,Valencia Club de Fútbol SAD,12
+José Gayà,Gayà,1995-05-25,España,Defensa,Valencia Club de Fútbol SAD,14
+César Tárrega,Tárrega,2002-02-26,España,Defensa,Valencia Club de Fútbol SAD,15
+Dimitri Foulquier,Foulquier,1993-03-23,Guadalupe,Defensa,Valencia Club de Fútbol SAD,20
+Jesús Vázquez,J. Vázquez,2003-01-02,España,Defensa,Valencia Club de Fútbol SAD,21
+Yarek Gasiorowski,Yarek,2005-01-12,España,Defensa,Valencia Club de Fútbol SAD,24
+Iker Córdoba,I. Córdoba,2005-11-11,España,Defensa,Valencia Club de Fútbol SAD,38
+Rodrigo Abajas,Rodrigo Abajas,2003-05-12,España,Defensa,Valencia Club de Fútbol SAD,39
+Javi Guerra,Javi Guerra,2003-05-13,España,Centrocampista,Valencia Club de Fútbol SAD,8
+Domingos André Ribeiro Almeida,A. Almeida,2000-05-30,Portugal,Centrocampista,Valencia Club de Fútbol SAD,10
+José Luis García Vayá,Pepelu,1998-08-11,España,Centrocampista,Valencia Club de Fútbol SAD,18
+Luis Rioja,L. Rioja,1993-10-16,España,Centrocampista,Valencia Club de Fútbol SAD,22
+Fran Pérez,Fran Pérez,2002-09-09,España,Centrocampista,Valencia Club de Fútbol SAD,23
+Ali Fadal,Ali Fadal,2004-01-14,Ghana,Centrocampista,Valencia Club de Fútbol SAD,28
+Martín Tejón,Martín Tejón,2004-04-12,España,Centrocampista,Valencia Club de Fútbol SAD,32
+Sergi Canós,S. C. Tenés,1997-02-02,España,Delantero,Valencia Club de Fútbol SAD,7
+Hugo Duro,Hugo Duro,1999-11-10,España,Delantero,Valencia Club de Fútbol SAD,9
+Rafa Mir,Rafa Mir,1997-06-18,España,Delantero,Valencia Club de Fútbol SAD,11
+Diego López,Diego López,2002-05-13,España,Delantero,Valencia Club de Fútbol SAD,16
+Dani Gómez,Dani Gómez,1998-07-30,España,Delantero,Valencia Club de Fútbol SAD,17
+David Otorbi,Otorbi,2007-10-16,España,Delantero,Valencia Club de Fútbol SAD,27
+Luiz Lúcio Reis Júnior,Júnior R.,2001-01-14,Brasil,Portero,Villarreal Club de Fútbol SAD,1
+Diego Conde,Diego Conde,1998-10-28,España,Portero,Villarreal Club de Fútbol SAD,13
+Iker Álvarez,Iker Alvarez,2001-07-25,Andorra,Portero,Villarreal Club de Fútbol B,
+Logan Evans Costa,Costa,2001-04-01,Cabo Verde,Defensa,Villarreal Club de Fútbol SAD,2
+Raúl Albiol,R. Albiol,1985-09-04,España,Defensa,Villarreal Club de Fútbol SAD,3
+Eric Bailly,E. Bailly,1994-04-12,Costa de Marfil,Defensa,Villarreal Club de Fútbol SAD,4
+Willy Kambwala,Kambwala,2004-08-25,Francia,Defensa,Villarreal Club de Fútbol SAD,5
+Juan Foyth,Foyth,1998-01-12,Argentina,Defensa,Villarreal Club de Fútbol SAD,8
+Kiko Femenía,Kiko F.,1991-02-02,España,Defensa,Villarreal Club de Fútbol SAD,17
+Sergi Cardona,S. Cardona,1999-07-08,España,Defensa,Villarreal Club de Fútbol SAD,23
+Pau Navarro,Pau Navarro,2005-04-25,España,Defensa,Villarreal Club de Fútbol SAD,26
+Arnau Solà,Arnau,2003-04-04,España,Defensa,Villarreal Club de Fútbol SAD,27
+Antonio Espigares,Espigares,2004-09-05,España,Defensa,Villarreal Club de Fútbol SAD,28
+Denis Suárez,Denis Suárez,1994-01-06,España,Centrocampista,Villarreal Club de Fútbol SAD,6
+Dani Parejo,Parejo,1989-04-16,España,Centrocampista,Villarreal Club de Fútbol SAD,10
+Santi Comesaña,Santi C.v.,1996-10-05,España,Centrocampista,Villarreal Club de Fútbol SAD,14
+Álex Baena,Alex . B,2001-07-20,España,Centrocampista,Villarreal Club de Fútbol SAD,16
+Pape Gueye,Gueye,1999-01-24,Senegal,Centrocampista,Villarreal Club de Fútbol SAD,18
+Nicolas Pépé,Pepe,2005-05-29,Costa de Marfil,Centrocampista,Villarreal Club de Fútbol SAD,19
+Ramon Terrats,R. Terrats,2000-10-18,España,Centrocampista,Villarreal Club de Fútbol SAD,20
+Daniel Requena,Requena,2004-02-12,España,Centrocampista,Villarreal Club de Fútbol SAD,30
+Gerard Moreno,Gerard,1992-04-07,España,Delantero,Villarreal Club de Fútbol SAD,7
+Ilias Akhomach,I. Akhomach,2004-04-16,Marruecos,Delantero,Villarreal Club de Fútbol B,
+Thierno Barry,Barry,2002-10-21,Francia,Delantero,Villarreal Club de Fútbol SAD,15
+Yeremy Pino,Yeremy,2002-10-20,España,Delantero,Villarreal Club de Fútbol SAD,21
+Ayoze Pérez,Ayoze,1993-07-29,España,Delantero,Villarreal Club de Fútbol SAD,22
+Alfonso Pedraza,A. Pedraza,1996-04-09,España,Delantero,Villarreal Club de Fútbol SAD,24
+Pau Cabanes De La Torre,Pau Cabanes,2005-02-17,España,Delantero,Villarreal Club de Fútbol SAD,33
+Etta Eyong,Etta Eyong,2003-10-14,Camerún,Delantero,Villarreal Club de Fútbol SAD,36
